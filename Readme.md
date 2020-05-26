@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Михаил  Глянцев](https://up.htmlacademy.ru/javascript/20/user/233300).
-* Наставник: `Неизвестно`.
+* Наставник: [Михаил  Глянцев](https://up.htmlacademy.ru/javascript/20/user/233300).
 
 ---
 
